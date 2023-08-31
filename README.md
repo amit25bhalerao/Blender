@@ -30,5 +30,3 @@ Blender is more than just software – it's a community-driven endeavor that thr
 **Note:** This repository is governed by the Blender [GNU General Public License](https://www.blender.org/about/license/), version 3 or later.
 
 ---
-
-*Disclaimer: This README is a template and may need to be customized to accurately reflect your Blender repository.*
